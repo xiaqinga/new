@@ -1,0 +1,22 @@
+{
+  "name": "yes",
+  "authors": [
+    "xiaxuhua <289036248@qq.com>"
+  ],
+  "description": "yes",
+  "directory": "public/bower_components",
+  "main": "yes",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "admin-lte#^2.3.5",
+    "jquery": "^3.2.1"
+  }
+}
